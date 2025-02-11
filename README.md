@@ -22,3 +22,7 @@
 ```css
 [Anis@System]-(~)
 └─► echo "Welcome to my GitHub Profile ^^"
+```
+```css
+[Anis@System]-(~)
+└─► logout --Thanks_for_visiting xD
