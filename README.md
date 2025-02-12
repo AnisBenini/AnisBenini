@@ -6,10 +6,11 @@
     ║     _          _       ____             _       _       UpTime    : 23 Years                              ║
     ║    / \   _ __ (_)___  | __ )  ___ _ __ (_)_ __ (_)      Role      : AI Enthusiast                         ║
     ║   / _ \ | '_ \| / __| |  _ \ / _ \ '_ \| | '_ \| |      Focus     : NLP  , ML , DL                        ║
-    ║  / ___ \| | | | \__ \ | |_) |  __/ | | | | | | | |      Languages : Python (Proficient)                   ║
-    ║ /_/   \_\_| |_|_|___/ |____/ \___|_| |_|_|_| |_|_|      Frameworks: TensorFlow , PyTorch  , Keras ,       ║
-    ║                                                                      Scikit-learn  , Pandas , NumPy ,     ║
-    ║                                                                      Matplotlib , OpenCV                  ║
+    ║  / ___ \| | | | \__ \ | |_) |  __/ | | | | | | | |      Languages : Python                                ║
+    ║ /_/   \_\_| |_|_|___/ |____/ \___|_| |_|_|_| |_|_|      Frameworks: Pandas , NumPy , Scikit-learn,        ║
+    ║                                                                     TensorFlow , PyTorch  , Keras ,       ║
+    ║                                                                     Matplotlib , Seaborn , OpenCV, Scrapy ║
+    ║                                                                     Selenium , NLTK , SpaCy , Streamlit   ║
     ╚═══════════════════════════════════════════════════════════════════════════════════════════════════════════╝
 ```
 ```css
@@ -25,4 +26,4 @@
 ```
 ```css
 [Anis@System]-(~)
-└─► logout --Thanks_for_visiting xD
+└─► logout --Thanks_for_visiting_xD
